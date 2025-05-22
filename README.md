@@ -1,61 +1,77 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Umang Gupta** (aka Raghav), a passionate **UI/UX Designer**, **Cybersecurity Advisor**, and **Tech Enthusiast** currently pursuing **BCA (2nd Year)** at Integral University, Lucknow.
+Hi there! I'm **Umang Gupta** (aka Raghav) — a passionate **UI/UX Designer**, **Cybersecurity Advisor**, and **Tech Explorer**, currently pursuing **BCA (2nd Year)** at Integral University, Lucknow.
 
-I’m always exploring the intersection of **AI, Python development, frontend tech**, and **cloud computing**. I love building scalable AI apps, working with LLMs, and optimizing ML models.
+I'm always exploring the intersection of **AI**, **LLMs**, **Python**, and **Cloud DevOps**. I build, break, fix, and repeat — always learning smarter.
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=mini-page&style=flat-square&color=blue)
 
 ---
 
-## 🚀 Tech Stack
+## 📌 Table of Contents
 
-### 🧠 Programming & Core Concepts
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white"/>
-</div>
+- [🚀 Tech Stack](#-tech-stack)
+- [🧠 Word Cloud](#-word-cloud)
+- [📚 Highlighted Projects](#-highlighted-projects)
+- [📈 GitHub Stats](#-github-stats)
+- [🧑‍💻 About Me](#-about-me)
+- [📫 Connect With Me](#-connect-with-me)
 
 ---
+
+## 🚀 Tech Stack
+
+### 🧠 Programming & Concepts
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VectorDB-005571?style=flat&logo=redis&logoColor=white"/>
+</div>
 
 ### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 </div>
-
----
 
 ### 🤖 AI & Machine Learning
 <div align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=deeplearning.ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepLearning-8A2BE2?style=flat&logo=deeplearning.ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 </div>
 
----
-
-### 📚 Large Language Models (LLMs)
+### 🧠 Large Language Models (LLMs)
 <div align="left">
-  <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT-005571?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-1F425F?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=flat&logo=meta&logoColor=white"/>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Word Cloud
 
-- 🎓 **BCA 2nd Year Student** @ Integral University  
-- 💡 Always learning something new in **Python**, **App Dev**, and **Security**  
-- 💻 Interests: Ethical hacking, LLMs, and designing human-centric interfaces  
-- 🧠 Fun Fact: I enjoy learning by building!
+> *(Coming soon)*  
+Generate a word cloud from your tech stack for visual impact.
+
+![Word Cloud Placeholder](https://via.placeholder.com/800x300.png?text=Tech+Stack+Word+Cloud)
+
+---
+
+## 📚 Highlighted Projects
+
+Here are some of my featured projects:
+
+- 🔐 [Cyber-Security-Toolkit](https://github.com/mini-page/Cyber-Security-Toolkit) – Ethical hacking toolkit
+- 🤖 [LLM-App-Builder](https://github.com/mini-page/LLM-App-Builder) – Low-code builder for LLM apps
+- 📦 [VectorDB-Lite](https://github.com/mini-page/VectorDB-Lite) – Lightweight vector DB
+- 🧠 [Trackify - Health Tracker](https://github.com/mini-page/trackify) – Wellness + fitness tracking
 
 ---
 
@@ -69,24 +85,30 @@ I’m always exploring the intersection of **AI, Python development, frontend te
 
 ---
 
-## 📌 Highlighted Projects
+## 🏆 Trophies & Activity Graph
 
-Here are a few highlighted repositories:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mini-page&theme=radical&no-frame=true&row=1&column=7" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mini-page&theme=react-dark" />
+</div>
 
-- 🧠 [trackify](https://github.com/mini-page/trackify): A comprehensive health and wellness app built with React and Next.js, designed to help you monitor various aspects of your well-being.
-- 🎨 [commit.design](https://github.com/mini-page/commit.design): A project showcasing design commits and iterations.
-- ⚡ [PowerMenu](https://github.com/mini-page/PowerMenu): A PowerShell utility to enhance system power options.
-- 🛠️ [QCompile](https://github.com/mini-page/QCompile): A tool for compiling and managing projects efficiently.
-- 🌐 [rahulsoni.in](https://github.com/mini-page/rahulsoni.in): Personal website project.
-- 🧰 [WinBatched](https://github.com/mini-page/WinBatched): Batch scripts for Windows automation.
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **BCA 2nd Year** @ Integral University  
+- 🧠 Building Python, AI apps, and frontend tools  
+- 🛡️ Cybersecurity, LLMs, UX design — all in one brain  
+- 🤖 Future goal: Build a personal AI god
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: `raghavans5711@gmail.com`
-- 🔗 LinkedIn: [linkedin.com/in/umanggupta5711](https://www.linkedin.com/in/umanggupta5711/)
-- 🌐 Portfolio: [mini-page.io/cv](https://mini-page.io/cv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umanggupta5711/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/mini-page)
+[![Email](https://img.shields.io/badge/-Email-raghavans5711@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:raghavans5711@gmail.com)
 
 ---
 
