@@ -53,9 +53,6 @@ I’m always exploring the intersection of **AI, Python development, frontend te
 ## 🧑‍💻 About Me
 
 - 🎓 **BCA 2nd Year Student** @ Integral University  
-- 🧠 IQ Level: 130+ | Mental Age: 25  
-- 🏋️‍♂️ Fitness Goal: Muscle gain & fat loss (73kg, 175cm)  
-- 🍜 Surviving hostel life with 1 meal/day (lunch gang 😅)  
 - 💡 Always learning something new in **Python**, **App Dev**, and **Security**  
 - 💻 Interests: Ethical hacking, LLMs, and designing human-centric interfaces  
 - 🧠 Fun Fact: I enjoy learning by building!
