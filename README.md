@@ -1,115 +1,116 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Raghav</h1>
 
-Hi there! I'm **Umang Gupta** (aka Raghav) — a passionate **UI/UX Designer**, **Cybersecurity Advisor**, and **Tech Explorer**, currently pursuing **BCA (2nd Year)** at Integral University, Lucknow.
+<!-- <p align="center">
+  <a href="https://github.com/mini-page" target="_blank">
+    <img src="https://github.com/mini-page.png" width="130" style="border-radius: 50%;" alt="mini-page GitHub Profile" />
+  </a>
+</p> -->
 
-I'm always exploring the intersection of **AI**, **LLMs**, **Python**, and **Cloud DevOps**. I build, break, fix, and repeat — always learning smarter.
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=mini-page&style=flat-square&color=blue)
-
----
-
-## 📌 Table of Contents
-
-- [🚀 Tech Stack](#-tech-stack)
-- [🧠 Word Cloud](#-word-cloud)
-- [📚 Highlighted Projects](#-highlighted-projects)
-- [📈 GitHub Stats](#-github-stats)
-- [🧑‍💻 About Me](#-about-me)
-- [📫 Connect With Me](#-connect-with-me)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mini-page&label=Profile%20Views&color=0edccc&style=flat&labelColor=black" alt="Visitor Badge"/>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+### 🧑‍💻 About Me
 
-### 🧠 Programming & Concepts
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VectorDB-005571?style=flat&logo=redis&logoColor=white"/>
-</div>
+- 🔭 I’m currently working on **Flutter**
+- 🌱 I’m learning **Backend Development**
+- 💬 Ask me anything about **UI/UX Design**
+<h3>📫 Projects & Sites</h3>
 
-### ☁️ Cloud & DevOps
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-</div>
+<p>
+ 
 
-### 🤖 AI & Machine Learning
-<div align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepLearning-8A2BE2?style=flat&logo=deeplearning.ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-</div>
+  <!-- SK Fitness -->
+  <a href="https://skfitness-theta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/SK_Fitness-Live Site-0c896?style=for-the-badge&logo=vercel&logoColor=black" alt="SK Fitness" style="border-radius: 15px;">
+  </a>
 
-### 🧠 Large Language Models (LLMs)
-<div align="left">
-  <img src="https://img.shields.io/badge/GPT-005571?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-1F425F?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=flat&logo=meta&logoColor=white"/>
-</div>
+  <!-- Portfolio -->
+  <a href="https://mini-page.github.io/cv" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20CV-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" style="border-radius: 15px;">
+  </a>
+
+  <!-- Online Compiler -->
+  <a href="https://mini-page.github.io/QCompile" target="_blank">
+    <img src="https://img.shields.io/badge/Online_Compiler-QCompile-orange?style=for-the-badge&logo=code&logoColor=white" alt="QCompile Badge" style="border-radius: 15px;">
+  </a>
+</p>
+
+- ⚡ Fun fact: I 💕 exploitation of tech
+- 🎓 BCA @ Integral University, Lucknow
+- 🧠 Building Python, AI apps, frontend tools  
+- 🛡️ Cybersecurity, LLMs, UX — all in one brain  
+- 🎮 Goal: Build a personal game engine
 
 ---
 
-## 🧠 Word Cloud
+### 🤝 Connect with Me
 
-> *(Coming soon)*  
-Generate a word cloud from your tech stack for visual impact.
-
-![Word Cloud Placeholder](https://via.placeholder.com/800x300.png?text=Tech+Stack+Word+Cloud)
-
----
-
-## 📚 Highlighted Projects
-
-Here are some of my featured projects:
-
-- 🔐 [Cyber-Security-Toolkit](https://github.com/mini-page/Cyber-Security-Toolkit) – Ethical hacking toolkit
-- 🤖 [LLM-App-Builder](https://github.com/mini-page/LLM-App-Builder) – Low-code builder for LLM apps
-- 📦 [VectorDB-Lite](https://github.com/mini-page/VectorDB-Lite) – Lightweight vector DB
-- 🧠 [Trackify - Health Tracker](https://github.com/mini-page/trackify) – Wellness + fitness tracking
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mini-page&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mini-page&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-page&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Trophies & Activity Graph
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mini-page&theme=radical&no-frame=true&row=1&column=7" />
+<div id="badges">
+ <!-- Email Button -->
+  <a href="mailto:raghavans5711+github@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-→-D14836?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge" style="border-radius: 12px;">
+  </a>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mini-page&theme=react-dark" />
+  <a href="https://github.com/mini-page" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@ug5711" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/ug_5711" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/RaghavS5711" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.linkedin.com/in/umanggupta5711/" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 💻 Languages & Tools
 
-- 🎓 **BCA 2nd Year** @ Integral University  
-- 🧠 Building Python, AI apps, and frontend tools  
-- 🛡️ Cybersecurity, LLMs, UX design — all in one brain  
-- 🤖 Future goal: Build a personal AI god
+<div align="center">
+
+  #### 🖌️ Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript&perline=6" />
+
+  #### ⚙️ Backend & Dev
+  <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase&perline=6" />
+
+  #### 🛠️ Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux&perline=6" />
+
+  #### 🔐 Security
+  <img src="https://skillicons.dev/icons?i=kali,powershell&perline=6" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umanggupta5711/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/mini-page)
-[![Email](https://img.shields.io/badge/-Email-raghavans5711@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:raghavans5711@gmail.com)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mini-page&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats" 
+    style="border-radius: 20px; max-width: 420px;" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-page&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    style="border-radius: 20px; max-width: 350px;" />
+</div>
 
 ---
 
-> “Keep learning, keep building — one repo at a time.” 🚀
+### 🏆 Trophies & Contributions
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mini-page&theme=radical&no-frame=true&row=1&column=5" alt="GitHub Trophies"/>
+</div>
+
+---
