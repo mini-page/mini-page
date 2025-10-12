@@ -28,7 +28,7 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://mini-page.github.io/cv" target="_blank">
+  <a href="https://www.fastfol.io/mini-page" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20CV-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" style="border-radius: 15px;">
   </a>
 
