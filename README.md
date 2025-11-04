@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://gravatar.com/affable70bc2e6d0f" target="_blank">Raghav</a></h1>
 
 <!-- <p align="center">
   <a href="https://github.com/mini-page" target="_blank">
