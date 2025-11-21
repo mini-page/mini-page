@@ -14,9 +14,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m learning **Backend Development**
-- 💬 Ask me anything about **UI/UX Design**
+- 🔭 I’m currently working on **scripting**
+- 🌱 I’m learning **CyberSecurity & Ethical Hacking**
+- 💬 Ask me anything about **UI/UX Design & Terminal**
 <h3>📫 Projects & Sites</h3>
 
 <p>
@@ -25,6 +25,11 @@
   <!-- SK Fitness -->
   <a href="https://skfitness-theta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/SK_Fitness-Live Site-0c896?style=for-the-badge&logo=vercel&logoColor=black" alt="SK Fitness" style="border-radius: 15px;">
+  </a>
+  
+  <!-- TheSecretJuice -->
+  <a href="https://the-secret-juice.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/the-secret-juice-Live Site-0c896?style=for-the-badge&logo=vercel&logoColor=black" alt="Terminal Steroids" style="border-radius: 15px;">
   </a>
 
   <!-- Portfolio -->
