@@ -29,7 +29,8 @@
   
   <!-- TheSecretJuice -->
   <a href="https://the-secret-juice.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/the-secret-juice-Live Site-0c896?style=for-the-badge&logo=vercel&logoColor=black" alt="Terminal Steroids" style="border-radius: 15px;">
+    <img src="[https://img.shields.io/badge/the-secret-juice-Live Site-0c896?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/badge/TheSecretJuice-Live%20Site-0c896?style=for-the-badge&logo=vercel&logoColor=black
+)" alt="Terminal Steroids" style="border-radius: 15px;">
   </a>
 
   <!-- Portfolio -->
