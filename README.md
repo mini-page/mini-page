@@ -69,10 +69,10 @@
   <a href="https://www.instagram.com/ug_5711" target="_blank">
     <img style="border-radius: 20px;" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://x.com/RaghavS5711" target="_blank">
+  <a href="https://x.com/ug_5711" target="_blank">
     <img style="border-radius: 20px;" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://www.linkedin.com/in/umanggupta5711/" target="_blank">
+  <a href="https://www.linkedin.com/in/ug5711/" target="_blank">
     <img style="border-radius: 20px;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
